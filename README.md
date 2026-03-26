@@ -1,6 +1,6 @@
 # miniguia-estudos-notebooklm
 
-Estudo sobre a funcionalidade do notebooklm para criação de um segundo cérebro focado em uma temática especifica para auxílio na aprendizagem.
+Estudo sobre a funcionalidade do NotebookLM para criação de um segundo cérebro focado em uma temática especifica para auxílio na aprendizagem.
 
 **Caderno temático**
 
