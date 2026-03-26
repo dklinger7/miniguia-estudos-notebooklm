@@ -54,7 +54,7 @@ Filosofia de invetimentos baseada na metodologia dos 12 principios, dividos em 4
 
 Princípios de Mercado: Determinação do valor real;  e Compra com margem de segurança.
 
-**Glossário**
+**Glossário:**
 
 *ROE (Return on Equity)* - Retorno sobre o Patrimônio Líquido, é um indicador financeiro que mede a eficiência de uma empresa em gerar lucro a partir do capital
 
@@ -78,7 +78,7 @@ Princípios de Mercado: Determinação do valor real;  e Compra com margem de se
 
 *Imperativo Intitucional* - necessidades, obrigações ou forças invisíveis que impulsionam organizações a agirem de determinada maneira
 
-**Prompts reutilizáveis**
+**Prompts reutilizáveis:**
 
 "Quais são os principais pilares da filosofia de investimento de Buffett?"
 
